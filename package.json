@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "Use ES6 modules and transpile them to ES5 for use in browsers.",
   "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "https://github.com/travishorn/es6-module-babel.git"
   },
   "author": "Travis Horn <horn.travis@gmail.com> (http://travishorn.com)",
   "license": "MIT",
